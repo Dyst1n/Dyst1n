@@ -46,6 +46,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dustinworlds&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustinworlds&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<div align="center">
+<br clear="both" >
+<img src="https://raw.githubusercontent.com/Hiro420/Hiro420/output/snake.svg" alt="Snake animation"  />
+</div>
+  
 </p>
 
 ---
