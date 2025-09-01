@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm DustinWorlds</h1>
-<h3 align="center">💻 C++ & C# Developer | 🔍 Reverse Engineer | ⚡ Tech Enthusiast</h3>
+<h3 align="center">💻 C++ & C# Developer | 🔍 Reverse Engineer | </h3>
 
 ---
 
