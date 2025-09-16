@@ -4,12 +4,12 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dustinworlds&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/dustinworlds?tab=followers">
-    <img src="https://img.shields.io/github/followers/dustinworlds?label=Followers&style=flat-square" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=imloading&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/imloading?tab=followers">
+    <img src="https://img.shields.io/github/followers/imloading?label=Followers&style=flat-square" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/dustinworlds">
-    <img src="https://img.shields.io/github/stars/dustinworlds?label=Stars&style=flat-square" alt="GitHub Stars" />
+  <a href="https://github.com/imloading">
+    <img src="https://img.shields.io/github/stars/imloading?label=Stars&style=flat-square" alt="GitHub Stars" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imloading&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustinworlds&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imloading&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <div align="center">
 <br clear="both" >
