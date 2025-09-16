@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm DustinWorlds</h1>
+<h1 align="center">👋 Hey, I'm Loading</h1>
 <h3 align="center">💻 C++ & C# Developer | 🔍 Reverse Engineer | </h3>
 
 ---
@@ -41,9 +41,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dustinworlds&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imloading&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dustinworlds&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imloading&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustinworlds&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
@@ -52,11 +52,4 @@
 <img src="https://raw.githubusercontent.com/Hiro420/Hiro420/output/snake.svg" alt="Snake animation"  />
 </div>
   
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://discord.com/users/743125320890056715"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
