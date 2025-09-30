@@ -6,7 +6,7 @@
        OS  :  Wnd
      Name  :  Insxnia
 Something  :  Game Hacking & Unity
-      Dev  : C++ & C# 
+      Dev  : C++/C | C# | JavaScript
  Learning  : Reverse Engineer
 
     
