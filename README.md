@@ -8,6 +8,7 @@
 Something  :  Game Hacking & Unity
       Dev  : C++/C | C# | JavaScript
  Learning  : Reverse Engineer
+ Hobby     : Security Researcher
 
     
 ----------------
