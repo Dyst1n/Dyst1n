@@ -80,7 +80,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dyst1n/Dyst1n/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dyst1n/Dyst1n/refs/heads/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
