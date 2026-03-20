@@ -1,5 +1,8 @@
-<img src="https://i.pinimg.com/originals/27/f4/81/27f48185c6920557e9757e7ebfc43bac.gif"  alt="dusGif"  />
+<div align="center">
 
+<img src="https://i.pinimg.com/originals/8a/26/6a/8a266a935a82db27b3c75a8d6dab9b1a.gif"  alt="dusGif"  />
+
+</div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
